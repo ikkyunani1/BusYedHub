@@ -1,0 +1,55 @@
+_G.Farm = true
+while _G.Farm do wait()
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(.1)
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1)
+wait(1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(74.5563735961914, 21.731443405151367, -46.578853607177734)
+wait(1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(125.82235717773438, 3.369997024536133, 30.15135955810547)
+local A_1 = "buyAllSwords"
+local A_2 = "Ground"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1, A_2)
+wait(1)
+local A_1 = "buyAllBelts"
+local A_2 = "Ground"
+local Event = game:GetService("Players").ikkyunani2.ninjaEvent
+Event:FireServer(A_1, A_2)
+end
